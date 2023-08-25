@@ -1,0 +1,28 @@
+name: Artifactsmp2
+version: '${project.version}'
+main: me.goodi.artifactsmp2.Artifactsmp2
+api-version: 1.20
+load: startup
+commands:
+  giveArtifact:
+    description: "get an artifact"
+  e:
+    description: "no need"
+  create:
+    description: "create new world"
+  worldtp:
+    description: "dimension hop"
+  createwarp:
+    description: "create a new warp"
+  deletewarp:
+    description: "delete a warp"
+  warp:
+    description: "teleport to a warps location!"
+  discord:
+    description: "join discord"
+  artifactInfo:
+    description: "info on starter artifacts"
+  starterArtifact:
+    description: "get your starter artifact"
+  rules:
+    description: "rules"
